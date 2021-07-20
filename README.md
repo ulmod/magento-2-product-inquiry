@@ -1,6 +1,6 @@
 # Magento 2 Product Inquiry Extension
 
-[Magento 2 Product Inquiry](https://www.ulmod.com/magento-2-product-inquiry-extension.html) is a Magento 2 extension that allows you to add an "inquiry request" option in the product and category page where buyers can submit any related questions they have regarding your product.
+[Magento 2 Product Inquiry](https://www.ulmod.com/magento-2-product-inquiry-extension.html) is a Magento 2 extension that allows you to add an "inquiry request" option at the product and category pages, where buyers can submit any related questions they have regarding your product.
 
 With Magento 2 Product Inquiry, you can enable inquiry option to all products, categories, or per a particular product and category. 
 
